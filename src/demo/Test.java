@@ -37,6 +37,6 @@ public class Test {
             map2.put(i, i);
         }
         long s4 = System.currentTimeMillis();
-        System.out.println("初始化容量为"+aHundredMillion+"，耗时： " + (s4 - s3));
+        System.out.println("初始化容量为"+aHundredMillion+"，耗时：" + (s4 - s3));
     }
 }
